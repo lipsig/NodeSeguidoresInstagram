@@ -33,7 +33,7 @@ const fs = require('fs');
 
   await page.waitForTimeout(5000);
 
-  await page.goto('https://www.instagram.com/viniciu.s/');
+  await page.goto('https://www.instagram.com/user/');
 
   await page.waitForTimeout(6000);
 
